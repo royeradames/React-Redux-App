@@ -1,4 +1,4 @@
-import {ADD_ADVICE} from '../actions/dailyAdviceAction'
+import {ADD_ADVICE} from '../actions'
 
 const initialState = {
     dailyAdvice: '',

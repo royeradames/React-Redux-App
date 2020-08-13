@@ -1,1 +1,1 @@
-import {ADD_ADVICE} from './dailyAdviceAction'
+export {ADD_ADVICE} from './dailyAdviceAction'

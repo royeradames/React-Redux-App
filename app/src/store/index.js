@@ -1,3 +1,3 @@
 //index of store
-import { ADD_ADVICE } from './actions'
-import { dailyAdviceReducer } from './reducers'
+export { reducer } from './reducers'
+export { ADD_ADVICE } from './actions'

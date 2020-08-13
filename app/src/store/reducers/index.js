@@ -1,2 +1,2 @@
 //reducer index
-import {dailyAdviceReducer as reducer} from './dailyAdviceReducer'
+export {dailyAdviceReducer as reducer} from './dailyAdviceReducer'
